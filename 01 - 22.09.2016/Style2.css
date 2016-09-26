@@ -1,0 +1,50 @@
+.header {
+    width: 100%;
+    background: red;
+    padding-top: 40px;
+    margin-top: 50px;
+    padding-left: 20px;
+    
+}
+
+.content{
+     width: 50%;
+     /*margin: 0 auto;*/
+    margin-left: 25%;
+    margin-right: 25%;
+     background: blue;
+    padding: 10px 20px 30px 40px;
+   /* Top, Right, Left, Bottom */
+}
+
+.footer{
+     width: 100%;
+     background: gray;
+    margin-top: 10px;
+}
+
+.relative1 {
+    background-color: red;
+    position: relative;
+    top: 10px;
+}
+.relative2 {
+   position: relative;
+   background-color: green;
+   width: 500px;
+   top: 10px;
+}
+
+.foobar {position: relative;
+         background: pink; }
+
+.fixed{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.neki {
+       text-align: center;
+    
+}

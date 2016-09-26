@@ -1,0 +1,22 @@
+.main {
+    
+    font-size: 150px;
+    text-align: center;
+    
+}
+
+.Search {
+    text-align: center;
+    
+    
+    }
+
+.Search input {
+    font-size: 30px;
+}
+
+.Images {
+    font-size: 50px;
+    width: 100%;
+    text-align: center;
+}
